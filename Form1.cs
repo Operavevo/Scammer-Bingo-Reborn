@@ -129,8 +129,7 @@ namespace Scammer_Bingo_Reborn
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            int halfway = 0;
-            int done = 0;
+            
 
 
 
